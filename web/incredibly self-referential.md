@@ -1,7 +1,7 @@
 ## INCREDIBLY self-referential 
 
 ```
-decription : Discover my newest EC2 web service – it features an impressively self-referential element!
+briefing : Discover my newest EC2 web service – it features an impressively self-referential element!
 ```
 
 <p align="center">
